@@ -1,0 +1,24 @@
+{
+  "name": "back-end",
+  "version": "1.0.0",
+  "description": "class 6 demo code",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maefae/back-end.git"
+  },
+  "author": "Megan Seibert-Hughes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maefae/back-end/issues"
+  },
+  "homepage": "https://github.com/maefae/back-end#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1"
+  }
+}
